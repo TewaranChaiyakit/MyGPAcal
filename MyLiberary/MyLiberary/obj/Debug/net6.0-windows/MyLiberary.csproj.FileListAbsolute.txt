@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\bin\Debug\net6.0-windows\MyLiberary.deps.json
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\bin\Debug\net6.0-windows\MyLiberary.dll
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\bin\Debug\net6.0-windows\ref\MyLiberary.dll
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\bin\Debug\net6.0-windows\MyLiberary.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\obj\Debug\net6.0-windows\MyLiberary.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\obj\Debug\net6.0-windows\MyLiberary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\obj\Debug\net6.0-windows\MyLiberary.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\obj\Debug\net6.0-windows\MyLiberary.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\obj\Debug\net6.0-windows\MyLiberary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\obj\Debug\net6.0-windows\MyLiberary.dll
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\obj\Debug\net6.0-windows\ref\MyLiberary.dll
+C:\Users\Admin\Documents\Visual Studio 2022\MyLiberary\MyLiberary\obj\Debug\net6.0-windows\MyLiberary.pdb
